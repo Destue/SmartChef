@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ```
 
 ### Data Setup
-
+https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data
 1. Download the RAW_recipes.csv from Kaggle link above
 2. Place it in the `data/` directory
 3. Run preprocessing:
@@ -165,12 +165,9 @@ The system is built with modularity in mind, allowing for easy extensions and mo
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
-- Dataset from [Food.com](https://www.food.com/)
+- Dataset from [Food.com](https://www.food.com/)，
 - Built with Hugging Face Transformers
 - Uses FAISS for vector search
